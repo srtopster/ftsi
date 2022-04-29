@@ -39,6 +39,7 @@ p {
     margin-left: 10px;
     font-size: 22px;
     color: red;
+    cursor: pointer;
 }
 .boxed {
     width: 30%;
